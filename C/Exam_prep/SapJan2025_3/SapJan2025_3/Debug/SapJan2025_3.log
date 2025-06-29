@@ -1,6 +1,0 @@
-﻿  Source.cpp
-C:\Users\Popescu Tiberiu\Desktop\SAP\C\Exam_prep\SapJan2025_3\SapJan2025_3\Source.cpp(264,19): warning C4101: 'output': unreferenced local variable
-C:\Users\Popescu Tiberiu\Desktop\SAP\C\Exam_prep\SapJan2025_3\SapJan2025_3\Source.cpp(265,19): warning C4101: 'output_sha256': unreferenced local variable
-  SapJan2025_3.vcxproj -> C:\Users\Popescu Tiberiu\Desktop\SAP\C\Exam_prep\SapJan2025_3\Debug\SapJan2025_3.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
